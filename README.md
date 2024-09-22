@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mazharul2161999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazharul2161999" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mazharul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazharul islam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mazharulislam1474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazharul islam" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mazhar1807102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mazhar1807102" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/candoanything" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="candoanything" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nooobb__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nooobb__" height="30" width="40" /></a>
