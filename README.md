@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazharul Islam</h1>
-<h3 align="center">A passionate Software development learner, Problem Solver, Teacher, Android developer, Grapics Designer</h3>
+<h3 align="center">A passionate Teacher, Problem Solver, Software development learner, Android developer, Grapics Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhar1807102&label=Profile%20views&color=0e75b6&style=flat" alt="mazhar1807102" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mazharul2161999" target="blank"><img src="https://img.shields.io/twitter/follow/mazharul2161999?logo=twitter&style=for-the-badge" alt="mazharul2161999" /></a> </p>
 
-- 🔭 I’m currently working on **KUET Cafeteria-A CG mini-Project**
+- 🔭 I’m currently working on **Lecturer, Department of CSE at Imperial College of Engineering, Khulna**
 
 - 🌱 I’m currently learning **Computer Graphics with OpenGL and Problem solving with C++**
 
