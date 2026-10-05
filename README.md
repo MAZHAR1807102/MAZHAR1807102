@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**MAZHAR1807102/MAZHAR1807102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<div align="center">
+<div align="center">
 
 <img src="assets/banner.svg" alt="Mazharul Islam — Lecturer, Researcher, Educator. Network Security, IoT Intrusion Detection, Machine Learning." width="100%" />
 
@@ -202,10 +193,3 @@ A forwarding scheme built on the AOMDV multipath routing protocol, combined with
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E89&height=110&section=footer" width="100%" alt="" />
 
 </div>
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
