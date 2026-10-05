@@ -1,50 +1,197 @@
-<h1 align="center">Hi 👋, I'm Mazharul Islam</h1>
-<h3 align="center">A passionate Teacher, Problem Solver, Software development learner, Android developer, Grapics Designer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazhar1807102&label=Profile%20views&color=0e75b6&style=flat" alt="mazhar1807102" /> </p>
+<img src="assets/banner.svg" alt="Mazharul Islam — Lecturer, Researcher, Educator. Network Security, IoT Intrusion Detection, Machine Learning." width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazhar1807102" alt="mazhar1807102" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=1D4E89&center=true&vCenter=true&width=640&lines=Building+ML-powered+intrusion+detection+for+IoT;Securing+data+in+mobile+ad+hoc+networks;Teaching+computer+science+since+2018;Open+to+research+collaborations" alt="Building ML-powered intrusion detection for IoT. Securing data in mobile ad hoc networks. Teaching computer science since 2018. Open to research collaborations." /></a>
 
-<p align="left"> <a href="https://twitter.com/mazharul2161999" target="blank"><img src="https://img.shields.io/twitter/follow/mazharul2161999?logo=twitter&style=for-the-badge" alt="mazharul2161999" /></a> </p>
+<a href="mailto:imazharul175@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-1D4E89?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://doi.org/10.1109/QPAIN69676.2026.11545584"><img src="https://img.shields.io/badge/IEEE-Latest%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Latest IEEE paper" /></a>
+<!-- Add when ready (remove these comment markers):
+<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="SCHOLAR_URL"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="WEBSITE_URL"><img src="https://img.shields.io/badge/Website-Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+-->
 
-- 🔭 I’m currently working on **Lecturer, Department of CSE at Imperial College of Engineering, Khulna**
+</div>
 
-- 🌱 I’m currently learning **Computer Graphics with OpenGL and Problem solving with C++**
+<br />
 
-- 💬 Ask me about **Data Structure, Algorithm and Machine Learning**
+## 👋 About me
 
-- 📫 How to reach me **imazharul175@gmail.com**
+- 🎓 **Lecturer** in Computer Science & Engineering at **Imperial College of Engineering, Khulna**
+- 🔬 Researching **machine-learning-based intrusion detection** for IoT networks
+- 🧑‍🏫 Teaching computer science since **2018**
+- 🏛️ B.Sc. in CSE from **Khulna University of Engineering & Technology (KUET)**
+- 🤝 Open to **research collaborations** and always happy to hear from students
+- ⚽ Off the clock: football and photography
 
-- ⚡ Fun fact **Lots of football and Other Outdoor sports.**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mazharul2161999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazharul2161999" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mazharulislam1474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazharul islam" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mazhar1807102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mazhar1807102" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/candoanything" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="candoanything" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nooobb__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nooobb__" height="30" width="40" /></a>
+## 🔬 Research focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Network &amp; IoT Security</h3>
+      Protecting connected devices and the traffic between them.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Intrusion Detection</h3>
+      Machine-learning models that spot malicious traffic quickly and reliably.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 Mobile Ad Hoc Networks</h3>
+      Secure routing in networks without fixed infrastructure.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Machine Learning</h3>
+      Ensemble and boosting methods for security and real-world data.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 📄 Publications
+
+> [!NOTE]
+> **Robust and Efficient: A Boosting-Based Intrusion Detection Framework for IoT Networks on CICIoT2023 Dataset**<br />
+> **Mazharul Islam**, Puspita Singha<br />
+> *2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)*, pp. 1–6<br />
+> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FQPAIN69676.2026.11545584-1D4E89?style=flat-square)](https://doi.org/10.1109/QPAIN69676.2026.11545584)
+
+<details>
+<summary><b>📋 Cite this paper (BibTeX)</b></summary>
+
+```bibtex
+@inproceedings{islam2026robust,
+  author    = {Islam, Mazharul and Singha, Puspita},
+  title     = {Robust and Efficient: A Boosting-Based Intrusion Detection
+               Framework for {IoT} Networks on {CICIoT2023} Dataset},
+  booktitle = {2026 IEEE 2nd International Conference on Quantum Photonics,
+               Artificial Intelligence \& Networking (QPAIN)},
+  year      = {2026},
+  pages     = {1--6},
+  doi       = {10.1109/QPAIN69676.2026.11545584}
+}
+```
+
+</details>
+
+<details>
+<summary><b>🎓 Undergraduate thesis</b></summary>
+
+<br />
+
+**Secure and Reliable Data Forwarding Against Blackhole and Wormhole Attacks in Mobile Ad Hoc Networks** (KUET)
+
+A forwarding scheme built on the AOMDV multipath routing protocol, combined with an enhanced homomorphic cryptosystem (keys up to 2048 bits) to protect data integrity. Simulated in NS-2.35.
+
+</details>
+
+<br />
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,js,swift,html,css&theme=light&perline=9" alt="Python, Java, C++, C, C#, JavaScript, Swift, HTML, CSS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,dotnet,firebase,androidstudio,visualstudio&theme=light" alt="TensorFlow, OpenCV, .NET, Firebase, Android Studio, Visual Studio" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/NS--2-1D4E89?style=flat-square" alt="NS-2" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazhar1807102&show_icons=true&locale=en&layout=compact" alt="mazhar1807102" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazhar1807102&show_icons=true&locale=en" alt="mazhar1807102" /></p>
+## 🚀 Selected projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazhar1807102&" alt="mazhar1807102" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 Online Examination System</h3>
+      Remote MCQ and written exams with separate student, teacher and admin panels, question management and live timers.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛺 Riksa Mama</h3>
+      Rickshaw booking app with in-app payment for riders and passengers.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Doctor Finder</h3>
+      Doctor and patient profiles, category search and appointment booking, with a PL/SQL database edition.
+      <br /><br />
+      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" alt="C#" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ Daily Task Manager</h3>
+      An iOS app for tracking daily activities.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ KUET Cafeteria</h3>
+      A computer graphics scene of the KUET cafeteria.
+      <br /><br />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 MANET Secure Forwarding</h3>
+      Thesis simulation: blackhole and wormhole attack avoidance with homomorphic encryption.
+      <br /><br />
+      <img src="https://img.shields.io/badge/NS--2.35-1D4E89?style=flat-square" alt="NS-2.35" />
+      <img src="https://img.shields.io/badge/AOMDV-1D4E89?style=flat-square" alt="AOMDV" />
+    </td>
+  </tr>
+</table>
+
 <!--
-**MAZHAR1807102/MAZHAR1807102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub stats
+Replace USERNAME with your GitHub username, then remove these comment markers.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=1D4E89&text_color=5b6474" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&title_color=1D4E89&text_color=5b6474" alt="Top languages" />
+</p>
 -->
+
+<br />
+
+## 🏆 Achievements
+
+- 🥇 **Technical Scholarship**, KUET, every semester
+- 🎖️ **Education Board Scholarships** in PSC, JSC and SSC examinations
+- 🧭 **Organizing Secretary**, Organization of KUET Sports (OKS)
+
+<br />
+
+<div align="center">
+
+**📫 Let's connect:** [imazharul175@gmail.com](mailto:imazharul175@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E89&height=110&section=footer" width="100%" alt="" />
+
+</div>
