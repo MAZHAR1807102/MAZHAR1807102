@@ -4,14 +4,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=1D4E89&center=true&vCenter=true&width=640&lines=Building+ML-powered+intrusion+detection+for+IoT;Securing+data+in+mobile+ad+hoc+networks;Teaching+computer+science+since+2018;Open+to+research+collaborations" alt="Building ML-powered intrusion detection for IoT. Securing data in mobile ad hoc networks. Teaching computer science since 2018. Open to research collaborations." /></a>
 
+<a href="https://mazharul-islam-cse.vercel.app"><img src="https://img.shields.io/badge/Website-mazharul--islam--cse.vercel.app-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="mailto:imazharul175@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-1D4E89?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/MAZHAR1807102"><img src="https://komarev.com/ghpvc/?username=MAZHAR1807102&style=for-the-badge&color=1D4E89&label=Profile+views" alt="Profile views" /></a>
+<a href="https://www.linkedin.com/in/mazharul-islam-ba946320a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://scholar.google.com/citations?user=BxSurLEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://doi.org/10.1109/QPAIN69676.2026.11545584"><img src="https://img.shields.io/badge/IEEE-Latest%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Latest IEEE paper" /></a>
-<!-- Add when ready (remove these comment markers):
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="SCHOLAR_URL"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-<a href="WEBSITE_URL"><img src="https://img.shields.io/badge/Website-Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
--->
 
 </div>
 
